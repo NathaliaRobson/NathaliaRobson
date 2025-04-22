@@ -17,7 +17,14 @@
 <a href="" target="_blank" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/></a>
 </div>
 
-
+<div style="display: inline_block"><br/>
+  
+  <img align="center" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img align="center" alt="HTML5" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img align="center" alt="CSS" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img align="center" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img align="center" alt="My SQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
+ </div>
 
 <footer> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7B68EE&section=footer"> </footer>
 
