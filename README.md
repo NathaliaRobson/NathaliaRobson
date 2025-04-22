@@ -2,10 +2,10 @@
 <h1>Olá<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="width: 35px;">, Bem-Vindos ao meu perfil!</h1>
 <div>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Front-End Developer</li>
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Computer Technician</li>
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Always looking for new knowledge</li>
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Persistent</li>
+<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Formada em ADS</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">👩‍🏫</g-emoji>  Instrutora de Informática e Desenvolvimento Web</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">🚀</g-emoji> Sempre evoluindo e explorando novas tecnologiase</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💡</g-emoji> Foco, dedicação e persistência fazem parte da minha jornada</li>
 </ul>
 </div>
 
