@@ -9,6 +9,16 @@
 </ul>
 </div>
 
+
+<div>
+<a href="" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+<a href="" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:nathyrobsonaal@gmail.com"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
+<a href="" target="_blank" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/portfolio.png" alt="portfolio"/></a>
+</div>
+
+
+
 <footer> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7B68EE&section=footer"> </footer>
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
