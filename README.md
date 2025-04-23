@@ -9,7 +9,7 @@
 </ul>
 </div>
 
-
+<h1><img src="https://github.com/seu-usuario/seu-repo/blob/main/assets/dedo.gif?raw=true" width="40"/>Contato</h1>
 <div>
 <a href="https://wa.link/8f6km2" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
 <a href="https://www.linkedin.com/in/nathalia-robson-126a72254/" rel="nofollow"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
